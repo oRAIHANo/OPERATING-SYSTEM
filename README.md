@@ -1,6 +1,5 @@
 # Operating System Repository
-Welcome to the Operating System Repository! This repository contains various resources related to Operating Systems, including syllabus, overviews, study materials, and lab exercises.
-
+Welcome to the Operating System Repository! This repository contains various resources related to Operating Systems, including syllabus, overviews, study materials.
 # Repository Contents
 #### 0 OPERATING SYSTEM SYLLABUS.jpg - Syllabus overview for Operating Systems.
 #### 1 OPERATING SYSTEM OVERVIEW.pdf - Overview of Operating Systems.
