@@ -1,6 +1,7 @@
 # Operating System Repository
 Welcome to the Operating System Repository! This repository contains various resources related to Operating Systems, including syllabus, overviews, study materials.
 # Repository Contents
+#### 0 OPERATING SYSTEM ROADMAP.pdf - This pdf contains the entire roadmap for OS
 #### 0 OPERATING SYSTEM SYLLABUS.jpg - Syllabus overview for Operating Systems.
 #### 1 OPERATING SYSTEM OVERVIEW.pdf - Overview of Operating Systems.
 #### 2 OPERATING SYSTEM OVERVIEW.pdf - Additional overview of Operating Systems.
